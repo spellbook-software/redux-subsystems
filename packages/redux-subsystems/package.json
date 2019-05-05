@@ -1,0 +1,6 @@
+{
+  "name": "@spellbook/redux-subsystems",
+  "version": "0.0.1",
+  "description": "redux-subsystems main package",
+  "license": "MIT"
+}

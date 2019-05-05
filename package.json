@@ -1,0 +1,15 @@
+{
+  "name": "@spellbook/redux-subsystems-workspace",
+  "version": "0.0.1",
+  "description": "workspace for redux-subsystems",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "https://github.com/spellbook-software/redux-subsystems.git",
+  "author": "Keith River <keith.river@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@spellbook/linter-config": "^1.0.0"
+  }
+}
